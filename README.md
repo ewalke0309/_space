@@ -4,10 +4,7 @@ You can use the [editor on GitHub](https://github.com/ewalke0309/_space/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Back
 ```markdown
 Syntax highlighted code block
 
@@ -25,13 +22,28 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### Backstory
+- You must protect your solar system from the alien invaders
+![Image](Start_Screen.png)
+- Kill all of the invaders to win
+![Image](Win_Screen.png)
+- If you fail they will easily take over our solar system
+![Image](Lose_Screen.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Instructions
+- press "Space" to start
+- press "Esc" to quit
+- use the arrow keys to move up and down and left and right
+- press "Space" while playing to shoot
+- press "Space" once game ends to play again
 
-### Jekyll Themes
+### Scoring
+- Every enemy that you kill gives you 100 points
+![Image](Scoring.png)
+- 1000 points is the maximum amount you can get.
+- The green power-up gives you shields.
+- THe red power-up allows you to shoot 2 lasers at once.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ewalke0309/_space/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Credits
+- 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
