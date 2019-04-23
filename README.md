@@ -1,27 +1,4 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ewalke0309/_space/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Back
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 ### Backstory
 - You must protect your solar system from the alien invaders
 ![Image](Start_Screen.png)
@@ -45,5 +22,5 @@ Syntax highlighted code block
 - THe red power-up allows you to shoot 2 lasers at once.
 
 ### Credits
-- 
-
+## Fonts
+- Fonts from [Font](https://www.1001fonts.com/aniron-font.html)
