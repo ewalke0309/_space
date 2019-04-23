@@ -20,7 +20,7 @@ by Evan Walker
 ![Image](Scoring.png)
 - 1000 points is the maximum amount you can get.
 - The green power-up gives you shields.
-- THe red power-up allows you to shoot 2 lasers at once.
+- The red power-up allows you to shoot 2 lasers at once.
 
 ### Credits
 ## Fonts
